@@ -1,3 +1,28 @@
 img {
   border-radius: 28px;
 }
+
+h3 {
+  color: #e1624f;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+hr {
+  border: 1px solid #d3d3d3;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+}
